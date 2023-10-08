@@ -1,4 +1,4 @@
-emailjs.init("PUBLIC_KEY"); // Replace with your EmailJS User ID
+emailjs.init("iubcmBXDCQWDV4zb4"); // Replace with your EmailJS User ID
 
 const sendBtn = document.querySelector('.send-btn');
 const result = document.querySelector('.result');
